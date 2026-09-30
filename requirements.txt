@@ -1,0 +1,2 @@
+foundry-local-sdk==1.2.4
+pypdf==6.16.2

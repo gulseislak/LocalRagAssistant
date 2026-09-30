@@ -1,0 +1,19 @@
+{
+  "include": [
+    "app",
+    "tests",
+    "main.py"
+  ],
+  "extraPaths": [
+    ".",
+    ".venv/lib/python3.11/site-packages",
+    "/Users/gulse/local-rag-assistant",
+    "/Users/gulse/local-rag-assistant/.venv/lib/python3.11/site-packages"
+  ],
+  "venvPath": "/Users/gulse/local-rag-assistant",
+  "venv": ".venv",
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none",
+  "reportMissingTypeStubs": false,
+  "pythonVersion": "3.11"
+}
